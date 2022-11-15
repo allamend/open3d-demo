@@ -14,3 +14,18 @@ pip install -r requirements.txt
 ```
 python demo.py
 ```
+
+
+## Visualization results
+
+![Untitled](https://user-images.githubusercontent.com/50627866/201977542-2e0ce2e7-fc61-4128-bc06-bfed8acaca5e.png)
+<p align="center">3DMatch correspondence</p>
+
+
+![Untitled (2)](https://user-images.githubusercontent.com/50627866/201977642-ba3e59b3-33dd-4aa0-87cf-2a911e2a67fe.png)
+<p align="center">KITTI correspondence</p>
+
+
+![Untitled (1)](https://user-images.githubusercontent.com/50627866/201977599-9daf1c40-a1fc-47d8-807e-07671b39e08d.png)
+<p align="center">KITTI projection</p>
+
